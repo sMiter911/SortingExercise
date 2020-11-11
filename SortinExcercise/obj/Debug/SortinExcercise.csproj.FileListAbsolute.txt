@@ -1,0 +1,7 @@
+C:\Users\Wandumuzi\source\repos\SortinExcercise\SortinExcercise\bin\Debug\SortinExcercise.exe.config
+C:\Users\Wandumuzi\source\repos\SortinExcercise\SortinExcercise\bin\Debug\SortinExcercise.exe
+C:\Users\Wandumuzi\source\repos\SortinExcercise\SortinExcercise\bin\Debug\SortinExcercise.pdb
+C:\Users\Wandumuzi\source\repos\SortinExcercise\SortinExcercise\obj\Debug\SortinExcercise.csprojAssemblyReference.cache
+C:\Users\Wandumuzi\source\repos\SortinExcercise\SortinExcercise\obj\Debug\SortinExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Wandumuzi\source\repos\SortinExcercise\SortinExcercise\obj\Debug\SortinExcercise.exe
+C:\Users\Wandumuzi\source\repos\SortinExcercise\SortinExcercise\obj\Debug\SortinExcercise.pdb
